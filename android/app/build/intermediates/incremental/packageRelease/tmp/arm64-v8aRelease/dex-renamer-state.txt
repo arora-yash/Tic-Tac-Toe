@@ -1,0 +1,4 @@
+#Sun Jul 14 17:39:39 IST 2019
+base.0=/Users/yash/Desktop/Tic-Tac-Toe/android/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

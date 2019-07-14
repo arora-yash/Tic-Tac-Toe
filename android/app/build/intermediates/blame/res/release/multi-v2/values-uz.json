@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/yash/Desktop/Java/June/TicTacToe/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-uz/values-uz.xml",
+            "outputFile": "/Users/yash/Desktop/Tic-Tac-Toe/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-uz/values-uz.xml",
             "map": [
                 {
                     "source": "/Users/yash/.gradle/caches/transforms-2/files-2.1/f82f0d91c1c4e0b138dd8572c7d4ea72/res/values-uz/values-uz.xml",
